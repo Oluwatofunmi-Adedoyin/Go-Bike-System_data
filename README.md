@@ -1,8 +1,4 @@
-# (Dataset Exploration Title)
-## by (your name here)
-
-
-## Dataset
+## Ford GoBike Data
 
 This data set includes information about rides made in a bike-sharing system covering the greater San Francisco Bay area. Some of the variables in the data set include the following:
 
